@@ -1,0 +1,1451 @@
+"County","Year","Department","Performance_Score"
+"Butte",2020,"Health",95.1
+"Colusa",2020,"Health",92.5
+"El Dorado",2020,"Health",94.2
+"Glenn",2020,"Health",74.7
+"Lassen",2020,"Health",95
+"Modoc",2020,"Health",66.1
+"Nevada",2020,"Health",71.3
+"Placer",2020,"Health",86.7
+"Plumas",2020,"Health",99.1
+"Sacramento",2020,"Health",83.3
+"Shasta",2020,"Health",81.1
+"Sierra",2020,"Health",62.4
+"Siskiyou",2020,"Health",98.8
+"Sutter",2020,"Health",64.8
+"Tehama",2020,"Health",63.5
+"Yolo",2020,"Health",95.2
+"Yuba",2020,"Health",80.3
+"Del Norte",2020,"Health",73.5
+"Humboldt",2020,"Health",95.8
+"Lake",2020,"Health",61.3
+"Mendocino",2020,"Health",69.5
+"Napa",2020,"Health",87.5
+"Sonoma",2020,"Health",69
+"Trinity",2020,"Health",72.7
+"Alameda",2020,"Health",67
+"Contra Costa",2020,"Health",92.1
+"Marin",2020,"Health",65.9
+"San Francisco",2020,"Health",92.9
+"San Mateo",2020,"Health",73.2
+"Santa Clara",2020,"Health",75
+"Solano",2020,"Health",85.2
+"Alpine",2020,"Health",63.9
+"Amador",2020,"Health",60.9
+"Calaveras",2020,"Health",99.7
+"Madera",2020,"Health",83.4
+"Mariposa",2020,"Health",91.3
+"Merced",2020,"Health",95.7
+"Mono",2020,"Health",90.2
+"San Joaquin",2020,"Health",99.2
+"Stanislaus",2020,"Health",61.8
+"Tuolumne",2020,"Health",96.1
+"Monterey",2020,"Health",94.6
+"San Benito",2020,"Health",91
+"San Luis Obispo",2020,"Health",75.1
+"Santa Barbara",2020,"Health",61.7
+"Santa Cruz",2020,"Health",74.6
+"Ventura",2020,"Health",71
+"Fresno",2020,"Health",94
+"Inyo",2020,"Health",74.5
+"Kern",2020,"Health",72.2
+"Kings",2020,"Health",90.4
+"Tulare",2020,"Health",93.8
+"Riverside",2020,"Health",78.3
+"San Bernardino",2020,"Health",89.2
+"Los Angeles",2020,"Health",64.2
+"Orange",2020,"Health",68.8
+"Imperial",2020,"Health",98.2
+"San Diego",2020,"Health",90.1
+"Butte",2021,"Health",92.8
+"Colusa",2021,"Health",76.7
+"El Dorado",2021,"Health",83.8
+"Glenn",2021,"Health",92
+"Lassen",2021,"Health",95.5
+"Modoc",2021,"Health",75.4
+"Nevada",2021,"Health",63.6
+"Placer",2021,"Health",85
+"Plumas",2021,"Health",89.8
+"Sacramento",2021,"Health",63.4
+"Shasta",2021,"Health",72
+"Sierra",2021,"Health",84.6
+"Siskiyou",2021,"Health",90.1
+"Sutter",2021,"Health",96.7
+"Tehama",2021,"Health",79
+"Yolo",2021,"Health",82.7
+"Yuba",2021,"Health",89.5
+"Del Norte",2021,"Health",94.3
+"Humboldt",2021,"Health",96.4
+"Lake",2021,"Health",62.3
+"Mendocino",2021,"Health",80.1
+"Napa",2021,"Health",74
+"Sonoma",2021,"Health",93.8
+"Trinity",2021,"Health",92.3
+"Alameda",2021,"Health",64.7
+"Contra Costa",2021,"Health",88.5
+"Marin",2021,"Health",69.4
+"San Francisco",2021,"Health",63
+"San Mateo",2021,"Health",97.4
+"Santa Clara",2021,"Health",66.3
+"Solano",2021,"Health",85.9
+"Alpine",2021,"Health",66.9
+"Amador",2021,"Health",60.8
+"Calaveras",2021,"Health",80.9
+"Madera",2021,"Health",63.5
+"Mariposa",2021,"Health",71.3
+"Merced",2021,"Health",76.8
+"Mono",2021,"Health",83.5
+"San Joaquin",2021,"Health",92.3
+"Stanislaus",2021,"Health",68.1
+"Tuolumne",2021,"Health",78.4
+"Monterey",2021,"Health",77.9
+"San Benito",2021,"Health",89.3
+"San Luis Obispo",2021,"Health",88.6
+"Santa Barbara",2021,"Health",93.2
+"Santa Cruz",2021,"Health",95.5
+"Ventura",2021,"Health",98.1
+"Fresno",2021,"Health",82
+"Inyo",2021,"Health",80.9
+"Kern",2021,"Health",66.8
+"Kings",2021,"Health",79.2
+"Tulare",2021,"Health",70.2
+"Riverside",2021,"Health",61.6
+"San Bernardino",2021,"Health",85.4
+"Los Angeles",2021,"Health",81.6
+"Orange",2021,"Health",65.6
+"Imperial",2021,"Health",71.3
+"San Diego",2021,"Health",83.3
+"Butte",2022,"Health",66.6
+"Colusa",2022,"Health",63.9
+"El Dorado",2022,"Health",77.1
+"Glenn",2022,"Health",74.2
+"Lassen",2022,"Health",93.8
+"Modoc",2022,"Health",70.4
+"Nevada",2022,"Health",60.9
+"Placer",2022,"Health",94.5
+"Plumas",2022,"Health",73.4
+"Sacramento",2022,"Health",85.3
+"Shasta",2022,"Health",81.9
+"Sierra",2022,"Health",75.1
+"Siskiyou",2022,"Health",67.4
+"Sutter",2022,"Health",77.2
+"Tehama",2022,"Health",85.2
+"Yolo",2022,"Health",80.8
+"Yuba",2022,"Health",86.4
+"Del Norte",2022,"Health",89.2
+"Humboldt",2022,"Health",79.5
+"Lake",2022,"Health",75.4
+"Mendocino",2022,"Health",60.3
+"Napa",2022,"Health",60.1
+"Sonoma",2022,"Health",99.8
+"Trinity",2022,"Health",64.3
+"Alameda",2022,"Health",76.7
+"Contra Costa",2022,"Health",88.7
+"Marin",2022,"Health",89.7
+"San Francisco",2022,"Health",94.9
+"San Mateo",2022,"Health",84.3
+"Santa Clara",2022,"Health",90.2
+"Solano",2022,"Health",93.9
+"Alpine",2022,"Health",84.5
+"Amador",2022,"Health",91.7
+"Calaveras",2022,"Health",60.9
+"Madera",2022,"Health",76.7
+"Mariposa",2022,"Health",95
+"Merced",2022,"Health",85.9
+"Mono",2022,"Health",97
+"San Joaquin",2022,"Health",66.9
+"Stanislaus",2022,"Health",72.6
+"Tuolumne",2022,"Health",92.2
+"Monterey",2022,"Health",99.6
+"San Benito",2022,"Health",72.9
+"San Luis Obispo",2022,"Health",60
+"Santa Barbara",2022,"Health",99.7
+"Santa Cruz",2022,"Health",65.9
+"Ventura",2022,"Health",62
+"Fresno",2022,"Health",83.9
+"Inyo",2022,"Health",72.9
+"Kern",2022,"Health",81.1
+"Kings",2022,"Health",91.8
+"Tulare",2022,"Health",62.8
+"Riverside",2022,"Health",87.8
+"San Bernardino",2022,"Health",97.9
+"Los Angeles",2022,"Health",71.1
+"Orange",2022,"Health",70
+"Imperial",2022,"Health",66.4
+"San Diego",2022,"Health",62.9
+"Butte",2023,"Health",82.3
+"Colusa",2023,"Health",79.6
+"El Dorado",2023,"Health",79.8
+"Glenn",2023,"Health",95.5
+"Lassen",2023,"Health",61.5
+"Modoc",2023,"Health",68.1
+"Nevada",2023,"Health",80.6
+"Placer",2023,"Health",69.5
+"Plumas",2023,"Health",83
+"Sacramento",2023,"Health",79.3
+"Shasta",2023,"Health",82.8
+"Sierra",2023,"Health",65.8
+"Siskiyou",2023,"Health",65.8
+"Sutter",2023,"Health",76.5
+"Tehama",2023,"Health",87.3
+"Yolo",2023,"Health",86.1
+"Yuba",2023,"Health",96.6
+"Del Norte",2023,"Health",92.5
+"Humboldt",2023,"Health",87
+"Lake",2023,"Health",92.3
+"Mendocino",2023,"Health",65.1
+"Napa",2023,"Health",70
+"Sonoma",2023,"Health",73.3
+"Trinity",2023,"Health",76.3
+"Alameda",2023,"Health",85.4
+"Contra Costa",2023,"Health",92.3
+"Marin",2023,"Health",70.4
+"San Francisco",2023,"Health",92.8
+"San Mateo",2023,"Health",60.6
+"Santa Clara",2023,"Health",86.2
+"Solano",2023,"Health",92.5
+"Alpine",2023,"Health",78.5
+"Amador",2023,"Health",68.1
+"Calaveras",2023,"Health",60.8
+"Madera",2023,"Health",71.3
+"Mariposa",2023,"Health",96.6
+"Merced",2023,"Health",97.3
+"Mono",2023,"Health",81.7
+"San Joaquin",2023,"Health",68.8
+"Stanislaus",2023,"Health",79.6
+"Tuolumne",2023,"Health",92
+"Monterey",2023,"Health",76.3
+"San Benito",2023,"Health",64.1
+"San Luis Obispo",2023,"Health",71.2
+"Santa Barbara",2023,"Health",74.5
+"Santa Cruz",2023,"Health",70.4
+"Ventura",2023,"Health",78.8
+"Fresno",2023,"Health",74.6
+"Inyo",2023,"Health",64.9
+"Kern",2023,"Health",61.9
+"Kings",2023,"Health",70.5
+"Tulare",2023,"Health",98.7
+"Riverside",2023,"Health",79.5
+"San Bernardino",2023,"Health",79.1
+"Los Angeles",2023,"Health",90
+"Orange",2023,"Health",86.7
+"Imperial",2023,"Health",62
+"San Diego",2023,"Health",87.8
+"Butte",2024,"Health",74.5
+"Colusa",2024,"Health",95.4
+"El Dorado",2024,"Health",91
+"Glenn",2024,"Health",65.6
+"Lassen",2024,"Health",71.8
+"Modoc",2024,"Health",65
+"Nevada",2024,"Health",83.6
+"Placer",2024,"Health",82.5
+"Plumas",2024,"Health",87.5
+"Sacramento",2024,"Health",72.5
+"Shasta",2024,"Health",84.2
+"Sierra",2024,"Health",99.6
+"Siskiyou",2024,"Health",89.7
+"Sutter",2024,"Health",63
+"Tehama",2024,"Health",78
+"Yolo",2024,"Health",62.1
+"Yuba",2024,"Health",73.6
+"Del Norte",2024,"Health",89.4
+"Humboldt",2024,"Health",60.2
+"Lake",2024,"Health",90.9
+"Mendocino",2024,"Health",78.5
+"Napa",2024,"Health",88.8
+"Sonoma",2024,"Health",86.7
+"Trinity",2024,"Health",82.9
+"Alameda",2024,"Health",88.2
+"Contra Costa",2024,"Health",86.3
+"Marin",2024,"Health",71.6
+"San Francisco",2024,"Health",63.9
+"San Mateo",2024,"Health",98.5
+"Santa Clara",2024,"Health",89.5
+"Solano",2024,"Health",84.5
+"Alpine",2024,"Health",64.8
+"Amador",2024,"Health",82
+"Calaveras",2024,"Health",70.5
+"Madera",2024,"Health",95.9
+"Mariposa",2024,"Health",60.4
+"Merced",2024,"Health",69.4
+"Mono",2024,"Health",65.2
+"San Joaquin",2024,"Health",73
+"Stanislaus",2024,"Health",89.1
+"Tuolumne",2024,"Health",99.7
+"Monterey",2024,"Health",88.6
+"San Benito",2024,"Health",80.2
+"San Luis Obispo",2024,"Health",77.4
+"Santa Barbara",2024,"Health",98
+"Santa Cruz",2024,"Health",64.8
+"Ventura",2024,"Health",63
+"Fresno",2024,"Health",95.6
+"Inyo",2024,"Health",77
+"Kern",2024,"Health",61.7
+"Kings",2024,"Health",85.9
+"Tulare",2024,"Health",78.7
+"Riverside",2024,"Health",84.7
+"San Bernardino",2024,"Health",70.8
+"Los Angeles",2024,"Health",66.3
+"Orange",2024,"Health",64.6
+"Imperial",2024,"Health",80.3
+"San Diego",2024,"Health",81.9
+"Butte",2020,"Education",65.6
+"Colusa",2020,"Education",66.8
+"El Dorado",2020,"Education",90.5
+"Glenn",2020,"Education",81.1
+"Lassen",2020,"Education",94.4
+"Modoc",2020,"Education",86.9
+"Nevada",2020,"Education",60.5
+"Placer",2020,"Education",87.7
+"Plumas",2020,"Education",95.7
+"Sacramento",2020,"Education",85.3
+"Shasta",2020,"Education",64.3
+"Sierra",2020,"Education",96.8
+"Siskiyou",2020,"Education",87
+"Sutter",2020,"Education",65.9
+"Tehama",2020,"Education",89.8
+"Yolo",2020,"Education",97.7
+"Yuba",2020,"Education",76.8
+"Del Norte",2020,"Education",71.9
+"Humboldt",2020,"Education",70.4
+"Lake",2020,"Education",68.9
+"Mendocino",2020,"Education",82.6
+"Napa",2020,"Education",90.3
+"Sonoma",2020,"Education",86.8
+"Trinity",2020,"Education",81.9
+"Alameda",2020,"Education",92.5
+"Contra Costa",2020,"Education",90.4
+"Marin",2020,"Education",60.8
+"San Francisco",2020,"Education",75.2
+"San Mateo",2020,"Education",62
+"Santa Clara",2020,"Education",91.9
+"Solano",2020,"Education",96.9
+"Alpine",2020,"Education",81.7
+"Amador",2020,"Education",94.1
+"Calaveras",2020,"Education",83.3
+"Madera",2020,"Education",86.7
+"Mariposa",2020,"Education",80.5
+"Merced",2020,"Education",90.5
+"Mono",2020,"Education",96.1
+"San Joaquin",2020,"Education",92.8
+"Stanislaus",2020,"Education",62.9
+"Tuolumne",2020,"Education",60.2
+"Monterey",2020,"Education",62.1
+"San Benito",2020,"Education",94.7
+"San Luis Obispo",2020,"Education",83
+"Santa Barbara",2020,"Education",72.6
+"Santa Cruz",2020,"Education",98.4
+"Ventura",2020,"Education",83.6
+"Fresno",2020,"Education",81.3
+"Inyo",2020,"Education",75.4
+"Kern",2020,"Education",72.8
+"Kings",2020,"Education",92.3
+"Tulare",2020,"Education",61.7
+"Riverside",2020,"Education",74.5
+"San Bernardino",2020,"Education",94.3
+"Los Angeles",2020,"Education",87.9
+"Orange",2020,"Education",87.4
+"Imperial",2020,"Education",73.9
+"San Diego",2020,"Education",82.2
+"Butte",2021,"Education",65.5
+"Colusa",2021,"Education",91.4
+"El Dorado",2021,"Education",95.5
+"Glenn",2021,"Education",68.2
+"Lassen",2021,"Education",90.8
+"Modoc",2021,"Education",83.9
+"Nevada",2021,"Education",98.3
+"Placer",2021,"Education",66.3
+"Plumas",2021,"Education",81
+"Sacramento",2021,"Education",94.9
+"Shasta",2021,"Education",94.8
+"Sierra",2021,"Education",60.9
+"Siskiyou",2021,"Education",99
+"Sutter",2021,"Education",79.6
+"Tehama",2021,"Education",75.6
+"Yolo",2021,"Education",76.7
+"Yuba",2021,"Education",63.7
+"Del Norte",2021,"Education",66.5
+"Humboldt",2021,"Education",76.2
+"Lake",2021,"Education",73.7
+"Mendocino",2021,"Education",76.6
+"Napa",2021,"Education",72.2
+"Sonoma",2021,"Education",82.4
+"Trinity",2021,"Education",66.2
+"Alameda",2021,"Education",98.3
+"Contra Costa",2021,"Education",61.8
+"Marin",2021,"Education",74.9
+"San Francisco",2021,"Education",98.5
+"San Mateo",2021,"Education",85.8
+"Santa Clara",2021,"Education",62.5
+"Solano",2021,"Education",76.4
+"Alpine",2021,"Education",77
+"Amador",2021,"Education",80.3
+"Calaveras",2021,"Education",78
+"Madera",2021,"Education",84.9
+"Mariposa",2021,"Education",65.6
+"Merced",2021,"Education",96.3
+"Mono",2021,"Education",82.8
+"San Joaquin",2021,"Education",81.9
+"Stanislaus",2021,"Education",64.7
+"Tuolumne",2021,"Education",90.5
+"Monterey",2021,"Education",79.1
+"San Benito",2021,"Education",91.3
+"San Luis Obispo",2021,"Education",61.8
+"Santa Barbara",2021,"Education",92.8
+"Santa Cruz",2021,"Education",70.8
+"Ventura",2021,"Education",71.3
+"Fresno",2021,"Education",85.7
+"Inyo",2021,"Education",97.9
+"Kern",2021,"Education",60.3
+"Kings",2021,"Education",74.1
+"Tulare",2021,"Education",76.8
+"Riverside",2021,"Education",78.3
+"San Bernardino",2021,"Education",88.5
+"Los Angeles",2021,"Education",96.8
+"Orange",2021,"Education",85.1
+"Imperial",2021,"Education",96.1
+"San Diego",2021,"Education",90.3
+"Butte",2022,"Education",65.5
+"Colusa",2022,"Education",66.1
+"El Dorado",2022,"Education",67.7
+"Glenn",2022,"Education",77.3
+"Lassen",2022,"Education",63.5
+"Modoc",2022,"Education",69
+"Nevada",2022,"Education",82.9
+"Placer",2022,"Education",76
+"Plumas",2022,"Education",82.6
+"Sacramento",2022,"Education",93.2
+"Shasta",2022,"Education",85.7
+"Sierra",2022,"Education",75.7
+"Siskiyou",2022,"Education",88.4
+"Sutter",2022,"Education",64.4
+"Tehama",2022,"Education",70.9
+"Yolo",2022,"Education",83.8
+"Yuba",2022,"Education",66.4
+"Del Norte",2022,"Education",94.1
+"Humboldt",2022,"Education",93.9
+"Lake",2022,"Education",79.1
+"Mendocino",2022,"Education",90.9
+"Napa",2022,"Education",71.8
+"Sonoma",2022,"Education",62.6
+"Trinity",2022,"Education",77.6
+"Alameda",2022,"Education",78.5
+"Contra Costa",2022,"Education",73.6
+"Marin",2022,"Education",67.4
+"San Francisco",2022,"Education",80.3
+"San Mateo",2022,"Education",60.8
+"Santa Clara",2022,"Education",90.9
+"Solano",2022,"Education",82.4
+"Alpine",2022,"Education",85.7
+"Amador",2022,"Education",78.7
+"Calaveras",2022,"Education",71.2
+"Madera",2022,"Education",78.4
+"Mariposa",2022,"Education",91.7
+"Merced",2022,"Education",83.4
+"Mono",2022,"Education",75.8
+"San Joaquin",2022,"Education",92.4
+"Stanislaus",2022,"Education",72.7
+"Tuolumne",2022,"Education",83.3
+"Monterey",2022,"Education",78.2
+"San Benito",2022,"Education",70.8
+"San Luis Obispo",2022,"Education",82.2
+"Santa Barbara",2022,"Education",69.2
+"Santa Cruz",2022,"Education",81.7
+"Ventura",2022,"Education",77.9
+"Fresno",2022,"Education",65.2
+"Inyo",2022,"Education",84.9
+"Kern",2022,"Education",81.9
+"Kings",2022,"Education",66
+"Tulare",2022,"Education",82.4
+"Riverside",2022,"Education",77.1
+"San Bernardino",2022,"Education",77.9
+"Los Angeles",2022,"Education",93.3
+"Orange",2022,"Education",88.8
+"Imperial",2022,"Education",78.3
+"San Diego",2022,"Education",80.9
+"Butte",2023,"Education",69.7
+"Colusa",2023,"Education",63
+"El Dorado",2023,"Education",75.7
+"Glenn",2023,"Education",60.5
+"Lassen",2023,"Education",94.7
+"Modoc",2023,"Education",99.7
+"Nevada",2023,"Education",88.4
+"Placer",2023,"Education",93.1
+"Plumas",2023,"Education",95.7
+"Sacramento",2023,"Education",81.6
+"Shasta",2023,"Education",82.2
+"Sierra",2023,"Education",71.1
+"Siskiyou",2023,"Education",86.4
+"Sutter",2023,"Education",69.7
+"Tehama",2023,"Education",71.5
+"Yolo",2023,"Education",88.6
+"Yuba",2023,"Education",89.1
+"Del Norte",2023,"Education",66.9
+"Humboldt",2023,"Education",72.3
+"Lake",2023,"Education",74.8
+"Mendocino",2023,"Education",63.1
+"Napa",2023,"Education",88.5
+"Sonoma",2023,"Education",82
+"Trinity",2023,"Education",65.4
+"Alameda",2023,"Education",99
+"Contra Costa",2023,"Education",82.5
+"Marin",2023,"Education",91.5
+"San Francisco",2023,"Education",94
+"San Mateo",2023,"Education",95.1
+"Santa Clara",2023,"Education",92
+"Solano",2023,"Education",85.6
+"Alpine",2023,"Education",85.2
+"Amador",2023,"Education",70.9
+"Calaveras",2023,"Education",61.2
+"Madera",2023,"Education",76.8
+"Mariposa",2023,"Education",74.2
+"Merced",2023,"Education",75.7
+"Mono",2023,"Education",66.9
+"San Joaquin",2023,"Education",72.8
+"Stanislaus",2023,"Education",76.5
+"Tuolumne",2023,"Education",90.4
+"Monterey",2023,"Education",70.9
+"San Benito",2023,"Education",64.6
+"San Luis Obispo",2023,"Education",61.2
+"Santa Barbara",2023,"Education",92.3
+"Santa Cruz",2023,"Education",79.2
+"Ventura",2023,"Education",92.2
+"Fresno",2023,"Education",63.2
+"Inyo",2023,"Education",64.6
+"Kern",2023,"Education",65.2
+"Kings",2023,"Education",89.5
+"Tulare",2023,"Education",90.3
+"Riverside",2023,"Education",99.7
+"San Bernardino",2023,"Education",85
+"Los Angeles",2023,"Education",71.5
+"Orange",2023,"Education",68
+"Imperial",2023,"Education",92
+"San Diego",2023,"Education",89.1
+"Butte",2024,"Education",68.7
+"Colusa",2024,"Education",89.8
+"El Dorado",2024,"Education",94.7
+"Glenn",2024,"Education",81.2
+"Lassen",2024,"Education",83.9
+"Modoc",2024,"Education",97.5
+"Nevada",2024,"Education",98
+"Placer",2024,"Education",86.4
+"Plumas",2024,"Education",62.9
+"Sacramento",2024,"Education",93.1
+"Shasta",2024,"Education",79.2
+"Sierra",2024,"Education",75.6
+"Siskiyou",2024,"Education",72
+"Sutter",2024,"Education",69.8
+"Tehama",2024,"Education",76.9
+"Yolo",2024,"Education",97.5
+"Yuba",2024,"Education",70.6
+"Del Norte",2024,"Education",82.7
+"Humboldt",2024,"Education",68.1
+"Lake",2024,"Education",67.7
+"Mendocino",2024,"Education",88.7
+"Napa",2024,"Education",72.5
+"Sonoma",2024,"Education",65.5
+"Trinity",2024,"Education",62.3
+"Alameda",2024,"Education",97.2
+"Contra Costa",2024,"Education",82.7
+"Marin",2024,"Education",64.7
+"San Francisco",2024,"Education",82.6
+"San Mateo",2024,"Education",81.6
+"Santa Clara",2024,"Education",92.8
+"Solano",2024,"Education",88.1
+"Alpine",2024,"Education",82.7
+"Amador",2024,"Education",88.9
+"Calaveras",2024,"Education",90.1
+"Madera",2024,"Education",75.3
+"Mariposa",2024,"Education",71.5
+"Merced",2024,"Education",81.3
+"Mono",2024,"Education",70.4
+"San Joaquin",2024,"Education",93.3
+"Stanislaus",2024,"Education",76.2
+"Tuolumne",2024,"Education",62.9
+"Monterey",2024,"Education",98.2
+"San Benito",2024,"Education",68.7
+"San Luis Obispo",2024,"Education",76.2
+"Santa Barbara",2024,"Education",85
+"Santa Cruz",2024,"Education",85.1
+"Ventura",2024,"Education",73.1
+"Fresno",2024,"Education",65.6
+"Inyo",2024,"Education",96.6
+"Kern",2024,"Education",84
+"Kings",2024,"Education",90
+"Tulare",2024,"Education",96.8
+"Riverside",2024,"Education",81.2
+"San Bernardino",2024,"Education",74.9
+"Los Angeles",2024,"Education",62.6
+"Orange",2024,"Education",94.2
+"Imperial",2024,"Education",80.4
+"San Diego",2024,"Education",68.4
+"Butte",2020,"Housing",75
+"Colusa",2020,"Housing",68.3
+"El Dorado",2020,"Housing",78.4
+"Glenn",2020,"Housing",69.7
+"Lassen",2020,"Housing",64.7
+"Modoc",2020,"Housing",62.9
+"Nevada",2020,"Housing",87.6
+"Placer",2020,"Housing",71.5
+"Plumas",2020,"Housing",66
+"Sacramento",2020,"Housing",98.9
+"Shasta",2020,"Housing",76.4
+"Sierra",2020,"Housing",76.1
+"Siskiyou",2020,"Housing",85.9
+"Sutter",2020,"Housing",96.7
+"Tehama",2020,"Housing",68.7
+"Yolo",2020,"Housing",81.9
+"Yuba",2020,"Housing",88.8
+"Del Norte",2020,"Housing",75.9
+"Humboldt",2020,"Housing",63.8
+"Lake",2020,"Housing",85.4
+"Mendocino",2020,"Housing",60.1
+"Napa",2020,"Housing",68.4
+"Sonoma",2020,"Housing",87.2
+"Trinity",2020,"Housing",94.6
+"Alameda",2020,"Housing",92
+"Contra Costa",2020,"Housing",65.4
+"Marin",2020,"Housing",75.5
+"San Francisco",2020,"Housing",91.5
+"San Mateo",2020,"Housing",87.7
+"Santa Clara",2020,"Housing",83.8
+"Solano",2020,"Housing",65
+"Alpine",2020,"Housing",82.2
+"Amador",2020,"Housing",78
+"Calaveras",2020,"Housing",90.6
+"Madera",2020,"Housing",61
+"Mariposa",2020,"Housing",67.8
+"Merced",2020,"Housing",95.2
+"Mono",2020,"Housing",64.4
+"San Joaquin",2020,"Housing",98.7
+"Stanislaus",2020,"Housing",75.4
+"Tuolumne",2020,"Housing",94.3
+"Monterey",2020,"Housing",95.5
+"San Benito",2020,"Housing",79.6
+"San Luis Obispo",2020,"Housing",88.7
+"Santa Barbara",2020,"Housing",79.5
+"Santa Cruz",2020,"Housing",99.5
+"Ventura",2020,"Housing",62.6
+"Fresno",2020,"Housing",66.3
+"Inyo",2020,"Housing",91.4
+"Kern",2020,"Housing",81.7
+"Kings",2020,"Housing",76.7
+"Tulare",2020,"Housing",100
+"Riverside",2020,"Housing",70.2
+"San Bernardino",2020,"Housing",80.3
+"Los Angeles",2020,"Housing",63.2
+"Orange",2020,"Housing",92.5
+"Imperial",2020,"Housing",75.3
+"San Diego",2020,"Housing",92.1
+"Butte",2021,"Housing",67.9
+"Colusa",2021,"Housing",97.9
+"El Dorado",2021,"Housing",73.8
+"Glenn",2021,"Housing",80.9
+"Lassen",2021,"Housing",64.5
+"Modoc",2021,"Housing",95.4
+"Nevada",2021,"Housing",98.2
+"Placer",2021,"Housing",61.6
+"Plumas",2021,"Housing",79.7
+"Sacramento",2021,"Housing",69
+"Shasta",2021,"Housing",94.4
+"Sierra",2021,"Housing",81.2
+"Siskiyou",2021,"Housing",60.2
+"Sutter",2021,"Housing",71.1
+"Tehama",2021,"Housing",73
+"Yolo",2021,"Housing",83.5
+"Yuba",2021,"Housing",70
+"Del Norte",2021,"Housing",61.7
+"Humboldt",2021,"Housing",64.4
+"Lake",2021,"Housing",88.2
+"Mendocino",2021,"Housing",97.6
+"Napa",2021,"Housing",72.4
+"Sonoma",2021,"Housing",63.1
+"Trinity",2021,"Housing",72.9
+"Alameda",2021,"Housing",85
+"Contra Costa",2021,"Housing",77.6
+"Marin",2021,"Housing",92.1
+"San Francisco",2021,"Housing",71.2
+"San Mateo",2021,"Housing",82.8
+"Santa Clara",2021,"Housing",61.7
+"Solano",2021,"Housing",67.6
+"Alpine",2021,"Housing",89.1
+"Amador",2021,"Housing",93.1
+"Calaveras",2021,"Housing",80.4
+"Madera",2021,"Housing",82.7
+"Mariposa",2021,"Housing",60
+"Merced",2021,"Housing",65.8
+"Mono",2021,"Housing",94.6
+"San Joaquin",2021,"Housing",63.3
+"Stanislaus",2021,"Housing",69.8
+"Tuolumne",2021,"Housing",99.3
+"Monterey",2021,"Housing",83.1
+"San Benito",2021,"Housing",69.9
+"San Luis Obispo",2021,"Housing",84.6
+"Santa Barbara",2021,"Housing",61.3
+"Santa Cruz",2021,"Housing",65.9
+"Ventura",2021,"Housing",88.1
+"Fresno",2021,"Housing",62.6
+"Inyo",2021,"Housing",84.9
+"Kern",2021,"Housing",97.5
+"Kings",2021,"Housing",63.5
+"Tulare",2021,"Housing",98.9
+"Riverside",2021,"Housing",61
+"San Bernardino",2021,"Housing",89
+"Los Angeles",2021,"Housing",78.1
+"Orange",2021,"Housing",82.6
+"Imperial",2021,"Housing",94.9
+"San Diego",2021,"Housing",82.2
+"Butte",2022,"Housing",89.5
+"Colusa",2022,"Housing",84.9
+"El Dorado",2022,"Housing",72.4
+"Glenn",2022,"Housing",75.7
+"Lassen",2022,"Housing",68.1
+"Modoc",2022,"Housing",94.1
+"Nevada",2022,"Housing",84.3
+"Placer",2022,"Housing",90.2
+"Plumas",2022,"Housing",82.5
+"Sacramento",2022,"Housing",71
+"Shasta",2022,"Housing",89.4
+"Sierra",2022,"Housing",82
+"Siskiyou",2022,"Housing",73.8
+"Sutter",2022,"Housing",80.6
+"Tehama",2022,"Housing",92.6
+"Yolo",2022,"Housing",81.1
+"Yuba",2022,"Housing",68.1
+"Del Norte",2022,"Housing",93.9
+"Humboldt",2022,"Housing",74.8
+"Lake",2022,"Housing",72.1
+"Mendocino",2022,"Housing",90.8
+"Napa",2022,"Housing",89.3
+"Sonoma",2022,"Housing",93.6
+"Trinity",2022,"Housing",82.8
+"Alameda",2022,"Housing",61.1
+"Contra Costa",2022,"Housing",79.4
+"Marin",2022,"Housing",81.7
+"San Francisco",2022,"Housing",93.5
+"San Mateo",2022,"Housing",89.1
+"Santa Clara",2022,"Housing",82.2
+"Solano",2022,"Housing",62.9
+"Alpine",2022,"Housing",65.5
+"Amador",2022,"Housing",87.4
+"Calaveras",2022,"Housing",64
+"Madera",2022,"Housing",68.2
+"Mariposa",2022,"Housing",74.6
+"Merced",2022,"Housing",93.8
+"Mono",2022,"Housing",69.5
+"San Joaquin",2022,"Housing",88.2
+"Stanislaus",2022,"Housing",64.3
+"Tuolumne",2022,"Housing",91.2
+"Monterey",2022,"Housing",70.2
+"San Benito",2022,"Housing",81.9
+"San Luis Obispo",2022,"Housing",61.4
+"Santa Barbara",2022,"Housing",92.2
+"Santa Cruz",2022,"Housing",73.5
+"Ventura",2022,"Housing",96.7
+"Fresno",2022,"Housing",74.3
+"Inyo",2022,"Housing",99
+"Kern",2022,"Housing",75.4
+"Kings",2022,"Housing",79.5
+"Tulare",2022,"Housing",79.6
+"Riverside",2022,"Housing",60.5
+"San Bernardino",2022,"Housing",85.7
+"Los Angeles",2022,"Housing",80.5
+"Orange",2022,"Housing",72.8
+"Imperial",2022,"Housing",83.3
+"San Diego",2022,"Housing",84.7
+"Butte",2023,"Housing",77.5
+"Colusa",2023,"Housing",66.8
+"El Dorado",2023,"Housing",88.6
+"Glenn",2023,"Housing",89.9
+"Lassen",2023,"Housing",93.8
+"Modoc",2023,"Housing",81.4
+"Nevada",2023,"Housing",72.1
+"Placer",2023,"Housing",78.3
+"Plumas",2023,"Housing",75.4
+"Sacramento",2023,"Housing",70
+"Shasta",2023,"Housing",86.2
+"Sierra",2023,"Housing",98.2
+"Siskiyou",2023,"Housing",71.6
+"Sutter",2023,"Housing",86
+"Tehama",2023,"Housing",81.5
+"Yolo",2023,"Housing",83.9
+"Yuba",2023,"Housing",61
+"Del Norte",2023,"Housing",60.2
+"Humboldt",2023,"Housing",65.3
+"Lake",2023,"Housing",61
+"Mendocino",2023,"Housing",63.7
+"Napa",2023,"Housing",79
+"Sonoma",2023,"Housing",67.9
+"Trinity",2023,"Housing",92.6
+"Alameda",2023,"Housing",69.8
+"Contra Costa",2023,"Housing",79.6
+"Marin",2023,"Housing",86
+"San Francisco",2023,"Housing",66.3
+"San Mateo",2023,"Housing",93.5
+"Santa Clara",2023,"Housing",77.5
+"Solano",2023,"Housing",69.3
+"Alpine",2023,"Housing",72
+"Amador",2023,"Housing",66.4
+"Calaveras",2023,"Housing",83.4
+"Madera",2023,"Housing",66
+"Mariposa",2023,"Housing",67.2
+"Merced",2023,"Housing",73.6
+"Mono",2023,"Housing",67.4
+"San Joaquin",2023,"Housing",76.2
+"Stanislaus",2023,"Housing",84.5
+"Tuolumne",2023,"Housing",87.4
+"Monterey",2023,"Housing",92.9
+"San Benito",2023,"Housing",75
+"San Luis Obispo",2023,"Housing",98.1
+"Santa Barbara",2023,"Housing",60.8
+"Santa Cruz",2023,"Housing",84.5
+"Ventura",2023,"Housing",78.5
+"Fresno",2023,"Housing",74.2
+"Inyo",2023,"Housing",95.3
+"Kern",2023,"Housing",63
+"Kings",2023,"Housing",95.3
+"Tulare",2023,"Housing",67.5
+"Riverside",2023,"Housing",68.6
+"San Bernardino",2023,"Housing",94.8
+"Los Angeles",2023,"Housing",62.4
+"Orange",2023,"Housing",69.4
+"Imperial",2023,"Housing",99.7
+"San Diego",2023,"Housing",87.1
+"Butte",2024,"Housing",77.4
+"Colusa",2024,"Housing",75.1
+"El Dorado",2024,"Housing",78.4
+"Glenn",2024,"Housing",92.1
+"Lassen",2024,"Housing",86.5
+"Modoc",2024,"Housing",78.6
+"Nevada",2024,"Housing",62.1
+"Placer",2024,"Housing",69.5
+"Plumas",2024,"Housing",69.3
+"Sacramento",2024,"Housing",69.2
+"Shasta",2024,"Housing",62.5
+"Sierra",2024,"Housing",79.9
+"Siskiyou",2024,"Housing",69.8
+"Sutter",2024,"Housing",90.3
+"Tehama",2024,"Housing",81.9
+"Yolo",2024,"Housing",97.9
+"Yuba",2024,"Housing",63.4
+"Del Norte",2024,"Housing",97.9
+"Humboldt",2024,"Housing",88.9
+"Lake",2024,"Housing",96.9
+"Mendocino",2024,"Housing",84.6
+"Napa",2024,"Housing",66.4
+"Sonoma",2024,"Housing",67.3
+"Trinity",2024,"Housing",89.2
+"Alameda",2024,"Housing",83.6
+"Contra Costa",2024,"Housing",72.5
+"Marin",2024,"Housing",90.9
+"San Francisco",2024,"Housing",73.5
+"San Mateo",2024,"Housing",94.2
+"Santa Clara",2024,"Housing",83.2
+"Solano",2024,"Housing",76.6
+"Alpine",2024,"Housing",97.3
+"Amador",2024,"Housing",78.5
+"Calaveras",2024,"Housing",64
+"Madera",2024,"Housing",78.6
+"Mariposa",2024,"Housing",99.4
+"Merced",2024,"Housing",97
+"Mono",2024,"Housing",77.4
+"San Joaquin",2024,"Housing",94.8
+"Stanislaus",2024,"Housing",72
+"Tuolumne",2024,"Housing",91.9
+"Monterey",2024,"Housing",92
+"San Benito",2024,"Housing",75.5
+"San Luis Obispo",2024,"Housing",75.3
+"Santa Barbara",2024,"Housing",85.8
+"Santa Cruz",2024,"Housing",94.5
+"Ventura",2024,"Housing",86.3
+"Fresno",2024,"Housing",80.7
+"Inyo",2024,"Housing",66
+"Kern",2024,"Housing",84.5
+"Kings",2024,"Housing",61.7
+"Tulare",2024,"Housing",79.9
+"Riverside",2024,"Housing",89.6
+"San Bernardino",2024,"Housing",90.2
+"Los Angeles",2024,"Housing",62.5
+"Orange",2024,"Housing",77.7
+"Imperial",2024,"Housing",80
+"San Diego",2024,"Housing",70.8
+"Butte",2020,"Transportation",84
+"Colusa",2020,"Transportation",89.4
+"El Dorado",2020,"Transportation",88.5
+"Glenn",2020,"Transportation",64.7
+"Lassen",2020,"Transportation",83
+"Modoc",2020,"Transportation",91.9
+"Nevada",2020,"Transportation",69.3
+"Placer",2020,"Transportation",89
+"Plumas",2020,"Transportation",93.5
+"Sacramento",2020,"Transportation",64.8
+"Shasta",2020,"Transportation",98.4
+"Sierra",2020,"Transportation",89.9
+"Siskiyou",2020,"Transportation",92.4
+"Sutter",2020,"Transportation",67.6
+"Tehama",2020,"Transportation",61
+"Yolo",2020,"Transportation",94.6
+"Yuba",2020,"Transportation",96.8
+"Del Norte",2020,"Transportation",65.5
+"Humboldt",2020,"Transportation",79.1
+"Lake",2020,"Transportation",78.5
+"Mendocino",2020,"Transportation",88
+"Napa",2020,"Transportation",62.6
+"Sonoma",2020,"Transportation",89.3
+"Trinity",2020,"Transportation",75.8
+"Alameda",2020,"Transportation",78.5
+"Contra Costa",2020,"Transportation",89
+"Marin",2020,"Transportation",78.8
+"San Francisco",2020,"Transportation",100
+"San Mateo",2020,"Transportation",93.8
+"Santa Clara",2020,"Transportation",93.1
+"Solano",2020,"Transportation",90.5
+"Alpine",2020,"Transportation",64.5
+"Amador",2020,"Transportation",93.6
+"Calaveras",2020,"Transportation",92.6
+"Madera",2020,"Transportation",99.7
+"Mariposa",2020,"Transportation",61.9
+"Merced",2020,"Transportation",89.9
+"Mono",2020,"Transportation",76.8
+"San Joaquin",2020,"Transportation",83.3
+"Stanislaus",2020,"Transportation",93.2
+"Tuolumne",2020,"Transportation",60.5
+"Monterey",2020,"Transportation",60.5
+"San Benito",2020,"Transportation",99.9
+"San Luis Obispo",2020,"Transportation",90.6
+"Santa Barbara",2020,"Transportation",72.6
+"Santa Cruz",2020,"Transportation",92.5
+"Ventura",2020,"Transportation",99.6
+"Fresno",2020,"Transportation",68
+"Inyo",2020,"Transportation",85.8
+"Kern",2020,"Transportation",77.5
+"Kings",2020,"Transportation",97.5
+"Tulare",2020,"Transportation",99.5
+"Riverside",2020,"Transportation",78.3
+"San Bernardino",2020,"Transportation",69.2
+"Los Angeles",2020,"Transportation",87.8
+"Orange",2020,"Transportation",82.3
+"Imperial",2020,"Transportation",83.4
+"San Diego",2020,"Transportation",77.3
+"Butte",2021,"Transportation",77
+"Colusa",2021,"Transportation",83.9
+"El Dorado",2021,"Transportation",78.1
+"Glenn",2021,"Transportation",98.3
+"Lassen",2021,"Transportation",93.8
+"Modoc",2021,"Transportation",68.9
+"Nevada",2021,"Transportation",76.8
+"Placer",2021,"Transportation",76.8
+"Plumas",2021,"Transportation",60.8
+"Sacramento",2021,"Transportation",75.2
+"Shasta",2021,"Transportation",76.9
+"Sierra",2021,"Transportation",67.7
+"Siskiyou",2021,"Transportation",88.2
+"Sutter",2021,"Transportation",60.5
+"Tehama",2021,"Transportation",89.2
+"Yolo",2021,"Transportation",77.3
+"Yuba",2021,"Transportation",89.2
+"Del Norte",2021,"Transportation",60.6
+"Humboldt",2021,"Transportation",61.8
+"Lake",2021,"Transportation",76.7
+"Mendocino",2021,"Transportation",85.8
+"Napa",2021,"Transportation",68.8
+"Sonoma",2021,"Transportation",93.3
+"Trinity",2021,"Transportation",87.8
+"Alameda",2021,"Transportation",96
+"Contra Costa",2021,"Transportation",76.6
+"Marin",2021,"Transportation",76.4
+"San Francisco",2021,"Transportation",70
+"San Mateo",2021,"Transportation",75
+"Santa Clara",2021,"Transportation",69.3
+"Solano",2021,"Transportation",97.3
+"Alpine",2021,"Transportation",79.1
+"Amador",2021,"Transportation",61.9
+"Calaveras",2021,"Transportation",90.9
+"Madera",2021,"Transportation",73.2
+"Mariposa",2021,"Transportation",82.1
+"Merced",2021,"Transportation",87.1
+"Mono",2021,"Transportation",71.1
+"San Joaquin",2021,"Transportation",62.1
+"Stanislaus",2021,"Transportation",77
+"Tuolumne",2021,"Transportation",84.4
+"Monterey",2021,"Transportation",99
+"San Benito",2021,"Transportation",98.8
+"San Luis Obispo",2021,"Transportation",63.5
+"Santa Barbara",2021,"Transportation",79.9
+"Santa Cruz",2021,"Transportation",75.8
+"Ventura",2021,"Transportation",75.6
+"Fresno",2021,"Transportation",72.7
+"Inyo",2021,"Transportation",87.3
+"Kern",2021,"Transportation",71.4
+"Kings",2021,"Transportation",75.6
+"Tulare",2021,"Transportation",99.6
+"Riverside",2021,"Transportation",91.7
+"San Bernardino",2021,"Transportation",72.5
+"Los Angeles",2021,"Transportation",92.7
+"Orange",2021,"Transportation",68.8
+"Imperial",2021,"Transportation",80
+"San Diego",2021,"Transportation",66.7
+"Butte",2022,"Transportation",64.8
+"Colusa",2022,"Transportation",95.9
+"El Dorado",2022,"Transportation",63.7
+"Glenn",2022,"Transportation",94.6
+"Lassen",2022,"Transportation",71.1
+"Modoc",2022,"Transportation",61.1
+"Nevada",2022,"Transportation",91.5
+"Placer",2022,"Transportation",74.3
+"Plumas",2022,"Transportation",61
+"Sacramento",2022,"Transportation",89.8
+"Shasta",2022,"Transportation",61.2
+"Sierra",2022,"Transportation",77.4
+"Siskiyou",2022,"Transportation",70.3
+"Sutter",2022,"Transportation",79.9
+"Tehama",2022,"Transportation",86.1
+"Yolo",2022,"Transportation",63.3
+"Yuba",2022,"Transportation",67.2
+"Del Norte",2022,"Transportation",64.2
+"Humboldt",2022,"Transportation",92.5
+"Lake",2022,"Transportation",85.1
+"Mendocino",2022,"Transportation",85.2
+"Napa",2022,"Transportation",75.6
+"Sonoma",2022,"Transportation",77.3
+"Trinity",2022,"Transportation",73.9
+"Alameda",2022,"Transportation",91.7
+"Contra Costa",2022,"Transportation",95.5
+"Marin",2022,"Transportation",86
+"San Francisco",2022,"Transportation",83.7
+"San Mateo",2022,"Transportation",73.1
+"Santa Clara",2022,"Transportation",63
+"Solano",2022,"Transportation",83.7
+"Alpine",2022,"Transportation",67.1
+"Amador",2022,"Transportation",89.7
+"Calaveras",2022,"Transportation",71.8
+"Madera",2022,"Transportation",85.6
+"Mariposa",2022,"Transportation",65
+"Merced",2022,"Transportation",70.2
+"Mono",2022,"Transportation",92.8
+"San Joaquin",2022,"Transportation",92.2
+"Stanislaus",2022,"Transportation",61.8
+"Tuolumne",2022,"Transportation",95
+"Monterey",2022,"Transportation",65.1
+"San Benito",2022,"Transportation",84.4
+"San Luis Obispo",2022,"Transportation",78.8
+"Santa Barbara",2022,"Transportation",82.3
+"Santa Cruz",2022,"Transportation",89.2
+"Ventura",2022,"Transportation",78.8
+"Fresno",2022,"Transportation",99.5
+"Inyo",2022,"Transportation",99.4
+"Kern",2022,"Transportation",75.7
+"Kings",2022,"Transportation",84.4
+"Tulare",2022,"Transportation",73.8
+"Riverside",2022,"Transportation",77.5
+"San Bernardino",2022,"Transportation",69.2
+"Los Angeles",2022,"Transportation",60.2
+"Orange",2022,"Transportation",61
+"Imperial",2022,"Transportation",62.4
+"San Diego",2022,"Transportation",90.6
+"Butte",2023,"Transportation",78.8
+"Colusa",2023,"Transportation",94
+"El Dorado",2023,"Transportation",83.3
+"Glenn",2023,"Transportation",67.5
+"Lassen",2023,"Transportation",84.4
+"Modoc",2023,"Transportation",95.7
+"Nevada",2023,"Transportation",91.8
+"Placer",2023,"Transportation",80.2
+"Plumas",2023,"Transportation",76.9
+"Sacramento",2023,"Transportation",86.2
+"Shasta",2023,"Transportation",95.5
+"Sierra",2023,"Transportation",95.7
+"Siskiyou",2023,"Transportation",67.1
+"Sutter",2023,"Transportation",70.3
+"Tehama",2023,"Transportation",64.5
+"Yolo",2023,"Transportation",91.9
+"Yuba",2023,"Transportation",64.4
+"Del Norte",2023,"Transportation",93.2
+"Humboldt",2023,"Transportation",90.8
+"Lake",2023,"Transportation",97.7
+"Mendocino",2023,"Transportation",78.7
+"Napa",2023,"Transportation",97.6
+"Sonoma",2023,"Transportation",91.4
+"Trinity",2023,"Transportation",95
+"Alameda",2023,"Transportation",75.8
+"Contra Costa",2023,"Transportation",64
+"Marin",2023,"Transportation",71.1
+"San Francisco",2023,"Transportation",88.9
+"San Mateo",2023,"Transportation",74.3
+"Santa Clara",2023,"Transportation",75.3
+"Solano",2023,"Transportation",61.3
+"Alpine",2023,"Transportation",80.9
+"Amador",2023,"Transportation",64.8
+"Calaveras",2023,"Transportation",95.4
+"Madera",2023,"Transportation",63
+"Mariposa",2023,"Transportation",91.4
+"Merced",2023,"Transportation",94.2
+"Mono",2023,"Transportation",61.5
+"San Joaquin",2023,"Transportation",71
+"Stanislaus",2023,"Transportation",85.7
+"Tuolumne",2023,"Transportation",91.4
+"Monterey",2023,"Transportation",76
+"San Benito",2023,"Transportation",97.4
+"San Luis Obispo",2023,"Transportation",75.6
+"Santa Barbara",2023,"Transportation",77
+"Santa Cruz",2023,"Transportation",71.5
+"Ventura",2023,"Transportation",84.5
+"Fresno",2023,"Transportation",82.4
+"Inyo",2023,"Transportation",61.6
+"Kern",2023,"Transportation",89.8
+"Kings",2023,"Transportation",68.3
+"Tulare",2023,"Transportation",86.3
+"Riverside",2023,"Transportation",80.9
+"San Bernardino",2023,"Transportation",85.3
+"Los Angeles",2023,"Transportation",84.7
+"Orange",2023,"Transportation",71.4
+"Imperial",2023,"Transportation",69
+"San Diego",2023,"Transportation",81.6
+"Butte",2024,"Transportation",99.9
+"Colusa",2024,"Transportation",73.2
+"El Dorado",2024,"Transportation",72.9
+"Glenn",2024,"Transportation",61.4
+"Lassen",2024,"Transportation",81
+"Modoc",2024,"Transportation",83.9
+"Nevada",2024,"Transportation",89.7
+"Placer",2024,"Transportation",98.1
+"Plumas",2024,"Transportation",79.6
+"Sacramento",2024,"Transportation",63.3
+"Shasta",2024,"Transportation",70.4
+"Sierra",2024,"Transportation",95
+"Siskiyou",2024,"Transportation",94.1
+"Sutter",2024,"Transportation",93.7
+"Tehama",2024,"Transportation",97.9
+"Yolo",2024,"Transportation",86.1
+"Yuba",2024,"Transportation",79.5
+"Del Norte",2024,"Transportation",67.5
+"Humboldt",2024,"Transportation",88.5
+"Lake",2024,"Transportation",63.4
+"Mendocino",2024,"Transportation",78.4
+"Napa",2024,"Transportation",97.4
+"Sonoma",2024,"Transportation",93.8
+"Trinity",2024,"Transportation",88.6
+"Alameda",2024,"Transportation",65
+"Contra Costa",2024,"Transportation",83.8
+"Marin",2024,"Transportation",99.6
+"San Francisco",2024,"Transportation",84.6
+"San Mateo",2024,"Transportation",70.9
+"Santa Clara",2024,"Transportation",62.5
+"Solano",2024,"Transportation",62.9
+"Alpine",2024,"Transportation",94.9
+"Amador",2024,"Transportation",74.5
+"Calaveras",2024,"Transportation",97.8
+"Madera",2024,"Transportation",82.3
+"Mariposa",2024,"Transportation",80.5
+"Merced",2024,"Transportation",97.9
+"Mono",2024,"Transportation",64.4
+"San Joaquin",2024,"Transportation",92.8
+"Stanislaus",2024,"Transportation",75.1
+"Tuolumne",2024,"Transportation",82.3
+"Monterey",2024,"Transportation",72.6
+"San Benito",2024,"Transportation",63.3
+"San Luis Obispo",2024,"Transportation",91.2
+"Santa Barbara",2024,"Transportation",67.7
+"Santa Cruz",2024,"Transportation",86.2
+"Ventura",2024,"Transportation",77.4
+"Fresno",2024,"Transportation",67.9
+"Inyo",2024,"Transportation",99.8
+"Kern",2024,"Transportation",77.9
+"Kings",2024,"Transportation",61.3
+"Tulare",2024,"Transportation",97.5
+"Riverside",2024,"Transportation",94.8
+"San Bernardino",2024,"Transportation",84
+"Los Angeles",2024,"Transportation",72
+"Orange",2024,"Transportation",92.4
+"Imperial",2024,"Transportation",98.1
+"San Diego",2024,"Transportation",94.1
+"Butte",2020,"Social Services",65.1
+"Colusa",2020,"Social Services",98.8
+"El Dorado",2020,"Social Services",82.3
+"Glenn",2020,"Social Services",60.2
+"Lassen",2020,"Social Services",65.4
+"Modoc",2020,"Social Services",60.2
+"Nevada",2020,"Social Services",92.7
+"Placer",2020,"Social Services",91.3
+"Plumas",2020,"Social Services",97.2
+"Sacramento",2020,"Social Services",74.7
+"Shasta",2020,"Social Services",99
+"Sierra",2020,"Social Services",92.9
+"Siskiyou",2020,"Social Services",91.5
+"Sutter",2020,"Social Services",84.9
+"Tehama",2020,"Social Services",98.7
+"Yolo",2020,"Social Services",80
+"Yuba",2020,"Social Services",95.7
+"Del Norte",2020,"Social Services",76
+"Humboldt",2020,"Social Services",77.9
+"Lake",2020,"Social Services",97.4
+"Mendocino",2020,"Social Services",87.3
+"Napa",2020,"Social Services",60.7
+"Sonoma",2020,"Social Services",66.6
+"Trinity",2020,"Social Services",79.8
+"Alameda",2020,"Social Services",77.1
+"Contra Costa",2020,"Social Services",99.7
+"Marin",2020,"Social Services",95.6
+"San Francisco",2020,"Social Services",73.8
+"San Mateo",2020,"Social Services",88.2
+"Santa Clara",2020,"Social Services",96.3
+"Solano",2020,"Social Services",87.1
+"Alpine",2020,"Social Services",85.6
+"Amador",2020,"Social Services",66
+"Calaveras",2020,"Social Services",84
+"Madera",2020,"Social Services",70.9
+"Mariposa",2020,"Social Services",78.3
+"Merced",2020,"Social Services",68.9
+"Mono",2020,"Social Services",70.2
+"San Joaquin",2020,"Social Services",86.1
+"Stanislaus",2020,"Social Services",78.9
+"Tuolumne",2020,"Social Services",66.4
+"Monterey",2020,"Social Services",70.9
+"San Benito",2020,"Social Services",88.5
+"San Luis Obispo",2020,"Social Services",84.5
+"Santa Barbara",2020,"Social Services",65.3
+"Santa Cruz",2020,"Social Services",62.8
+"Ventura",2020,"Social Services",98.7
+"Fresno",2020,"Social Services",74.7
+"Inyo",2020,"Social Services",87.1
+"Kern",2020,"Social Services",93.8
+"Kings",2020,"Social Services",69.7
+"Tulare",2020,"Social Services",61.4
+"Riverside",2020,"Social Services",83.8
+"San Bernardino",2020,"Social Services",93.4
+"Los Angeles",2020,"Social Services",74.5
+"Orange",2020,"Social Services",73.3
+"Imperial",2020,"Social Services",85.8
+"San Diego",2020,"Social Services",98.3
+"Butte",2021,"Social Services",83.8
+"Colusa",2021,"Social Services",80.4
+"El Dorado",2021,"Social Services",66.2
+"Glenn",2021,"Social Services",93.8
+"Lassen",2021,"Social Services",68.6
+"Modoc",2021,"Social Services",86.8
+"Nevada",2021,"Social Services",84.7
+"Placer",2021,"Social Services",62
+"Plumas",2021,"Social Services",98
+"Sacramento",2021,"Social Services",83.3
+"Shasta",2021,"Social Services",94.4
+"Sierra",2021,"Social Services",80.7
+"Siskiyou",2021,"Social Services",70.6
+"Sutter",2021,"Social Services",83.9
+"Tehama",2021,"Social Services",91.8
+"Yolo",2021,"Social Services",87.6
+"Yuba",2021,"Social Services",79.2
+"Del Norte",2021,"Social Services",78.6
+"Humboldt",2021,"Social Services",84.7
+"Lake",2021,"Social Services",78
+"Mendocino",2021,"Social Services",84.1
+"Napa",2021,"Social Services",60.2
+"Sonoma",2021,"Social Services",99.8
+"Trinity",2021,"Social Services",76.3
+"Alameda",2021,"Social Services",64.7
+"Contra Costa",2021,"Social Services",94.8
+"Marin",2021,"Social Services",81.6
+"San Francisco",2021,"Social Services",95.3
+"San Mateo",2021,"Social Services",61.5
+"Santa Clara",2021,"Social Services",95.3
+"Solano",2021,"Social Services",88.9
+"Alpine",2021,"Social Services",90.8
+"Amador",2021,"Social Services",94.5
+"Calaveras",2021,"Social Services",80
+"Madera",2021,"Social Services",97
+"Mariposa",2021,"Social Services",68.3
+"Merced",2021,"Social Services",61.1
+"Mono",2021,"Social Services",72.6
+"San Joaquin",2021,"Social Services",86.4
+"Stanislaus",2021,"Social Services",72.6
+"Tuolumne",2021,"Social Services",97.8
+"Monterey",2021,"Social Services",91.2
+"San Benito",2021,"Social Services",73.6
+"San Luis Obispo",2021,"Social Services",79.3
+"Santa Barbara",2021,"Social Services",76.6
+"Santa Cruz",2021,"Social Services",91.1
+"Ventura",2021,"Social Services",79.4
+"Fresno",2021,"Social Services",60.6
+"Inyo",2021,"Social Services",85.7
+"Kern",2021,"Social Services",69.4
+"Kings",2021,"Social Services",89.9
+"Tulare",2021,"Social Services",71.8
+"Riverside",2021,"Social Services",96.2
+"San Bernardino",2021,"Social Services",94.1
+"Los Angeles",2021,"Social Services",78.5
+"Orange",2021,"Social Services",62.9
+"Imperial",2021,"Social Services",83.1
+"San Diego",2021,"Social Services",83.2
+"Butte",2022,"Social Services",99.7
+"Colusa",2022,"Social Services",73.4
+"El Dorado",2022,"Social Services",86.7
+"Glenn",2022,"Social Services",97.5
+"Lassen",2022,"Social Services",83
+"Modoc",2022,"Social Services",87.7
+"Nevada",2022,"Social Services",63.6
+"Placer",2022,"Social Services",94.7
+"Plumas",2022,"Social Services",80
+"Sacramento",2022,"Social Services",68.9
+"Shasta",2022,"Social Services",76.5
+"Sierra",2022,"Social Services",95.5
+"Siskiyou",2022,"Social Services",79.8
+"Sutter",2022,"Social Services",86.9
+"Tehama",2022,"Social Services",71.3
+"Yolo",2022,"Social Services",92.7
+"Yuba",2022,"Social Services",69.8
+"Del Norte",2022,"Social Services",74.8
+"Humboldt",2022,"Social Services",69.4
+"Lake",2022,"Social Services",97.4
+"Mendocino",2022,"Social Services",76.6
+"Napa",2022,"Social Services",65.5
+"Sonoma",2022,"Social Services",96.6
+"Trinity",2022,"Social Services",73.9
+"Alameda",2022,"Social Services",94.1
+"Contra Costa",2022,"Social Services",65.7
+"Marin",2022,"Social Services",74.4
+"San Francisco",2022,"Social Services",69.8
+"San Mateo",2022,"Social Services",61.8
+"Santa Clara",2022,"Social Services",91.4
+"Solano",2022,"Social Services",68
+"Alpine",2022,"Social Services",75.7
+"Amador",2022,"Social Services",72.9
+"Calaveras",2022,"Social Services",84.1
+"Madera",2022,"Social Services",81.7
+"Mariposa",2022,"Social Services",99.6
+"Merced",2022,"Social Services",70.2
+"Mono",2022,"Social Services",89.4
+"San Joaquin",2022,"Social Services",99.1
+"Stanislaus",2022,"Social Services",82.3
+"Tuolumne",2022,"Social Services",75.7
+"Monterey",2022,"Social Services",93
+"San Benito",2022,"Social Services",64.5
+"San Luis Obispo",2022,"Social Services",81.4
+"Santa Barbara",2022,"Social Services",77.8
+"Santa Cruz",2022,"Social Services",71
+"Ventura",2022,"Social Services",66.3
+"Fresno",2022,"Social Services",94.9
+"Inyo",2022,"Social Services",82.5
+"Kern",2022,"Social Services",82
+"Kings",2022,"Social Services",83.7
+"Tulare",2022,"Social Services",89.1
+"Riverside",2022,"Social Services",85.6
+"San Bernardino",2022,"Social Services",84.6
+"Los Angeles",2022,"Social Services",62.1
+"Orange",2022,"Social Services",82.6
+"Imperial",2022,"Social Services",83.5
+"San Diego",2022,"Social Services",85.1
+"Butte",2023,"Social Services",84.9
+"Colusa",2023,"Social Services",63.3
+"El Dorado",2023,"Social Services",63.1
+"Glenn",2023,"Social Services",87.5
+"Lassen",2023,"Social Services",93.2
+"Modoc",2023,"Social Services",65.8
+"Nevada",2023,"Social Services",91.3
+"Placer",2023,"Social Services",79.5
+"Plumas",2023,"Social Services",99.6
+"Sacramento",2023,"Social Services",80
+"Shasta",2023,"Social Services",82.5
+"Sierra",2023,"Social Services",75.1
+"Siskiyou",2023,"Social Services",80.7
+"Sutter",2023,"Social Services",63
+"Tehama",2023,"Social Services",81.5
+"Yolo",2023,"Social Services",98.4
+"Yuba",2023,"Social Services",81.1
+"Del Norte",2023,"Social Services",77.5
+"Humboldt",2023,"Social Services",61.3
+"Lake",2023,"Social Services",61.5
+"Mendocino",2023,"Social Services",61.9
+"Napa",2023,"Social Services",66.4
+"Sonoma",2023,"Social Services",78.8
+"Trinity",2023,"Social Services",92.2
+"Alameda",2023,"Social Services",71.2
+"Contra Costa",2023,"Social Services",90.2
+"Marin",2023,"Social Services",80.9
+"San Francisco",2023,"Social Services",71.6
+"San Mateo",2023,"Social Services",60.7
+"Santa Clara",2023,"Social Services",86.7
+"Solano",2023,"Social Services",62.7
+"Alpine",2023,"Social Services",93.5
+"Amador",2023,"Social Services",65.4
+"Calaveras",2023,"Social Services",86.2
+"Madera",2023,"Social Services",93.5
+"Mariposa",2023,"Social Services",70.3
+"Merced",2023,"Social Services",65.4
+"Mono",2023,"Social Services",90.5
+"San Joaquin",2023,"Social Services",68.5
+"Stanislaus",2023,"Social Services",70.7
+"Tuolumne",2023,"Social Services",81.3
+"Monterey",2023,"Social Services",79
+"San Benito",2023,"Social Services",74.9
+"San Luis Obispo",2023,"Social Services",91
+"Santa Barbara",2023,"Social Services",82.3
+"Santa Cruz",2023,"Social Services",66.2
+"Ventura",2023,"Social Services",99.6
+"Fresno",2023,"Social Services",69.8
+"Inyo",2023,"Social Services",65.2
+"Kern",2023,"Social Services",68.5
+"Kings",2023,"Social Services",75.2
+"Tulare",2023,"Social Services",74.4
+"Riverside",2023,"Social Services",72.1
+"San Bernardino",2023,"Social Services",61.8
+"Los Angeles",2023,"Social Services",97.4
+"Orange",2023,"Social Services",82.7
+"Imperial",2023,"Social Services",68.8
+"San Diego",2023,"Social Services",95.1
+"Butte",2024,"Social Services",78.7
+"Colusa",2024,"Social Services",81.7
+"El Dorado",2024,"Social Services",91.4
+"Glenn",2024,"Social Services",85.9
+"Lassen",2024,"Social Services",65.8
+"Modoc",2024,"Social Services",72.9
+"Nevada",2024,"Social Services",98
+"Placer",2024,"Social Services",67.5
+"Plumas",2024,"Social Services",90
+"Sacramento",2024,"Social Services",78.4
+"Shasta",2024,"Social Services",65.7
+"Sierra",2024,"Social Services",68.2
+"Siskiyou",2024,"Social Services",87
+"Sutter",2024,"Social Services",65.5
+"Tehama",2024,"Social Services",76.6
+"Yolo",2024,"Social Services",78
+"Yuba",2024,"Social Services",84.9
+"Del Norte",2024,"Social Services",70
+"Humboldt",2024,"Social Services",78.6
+"Lake",2024,"Social Services",66.6
+"Mendocino",2024,"Social Services",94.3
+"Napa",2024,"Social Services",66.3
+"Sonoma",2024,"Social Services",63.5
+"Trinity",2024,"Social Services",95.7
+"Alameda",2024,"Social Services",72
+"Contra Costa",2024,"Social Services",90.1
+"Marin",2024,"Social Services",76.1
+"San Francisco",2024,"Social Services",77.9
+"San Mateo",2024,"Social Services",66.4
+"Santa Clara",2024,"Social Services",65.8
+"Solano",2024,"Social Services",66
+"Alpine",2024,"Social Services",80.6
+"Amador",2024,"Social Services",79.7
+"Calaveras",2024,"Social Services",84.7
+"Madera",2024,"Social Services",77.9
+"Mariposa",2024,"Social Services",62.2
+"Merced",2024,"Social Services",60.2
+"Mono",2024,"Social Services",68.9
+"San Joaquin",2024,"Social Services",94
+"Stanislaus",2024,"Social Services",70.7
+"Tuolumne",2024,"Social Services",83.9
+"Monterey",2024,"Social Services",84.3
+"San Benito",2024,"Social Services",99.7
+"San Luis Obispo",2024,"Social Services",67.6
+"Santa Barbara",2024,"Social Services",90.1
+"Santa Cruz",2024,"Social Services",69.7
+"Ventura",2024,"Social Services",73.1
+"Fresno",2024,"Social Services",60.1
+"Inyo",2024,"Social Services",99.9
+"Kern",2024,"Social Services",77.5
+"Kings",2024,"Social Services",99.9
+"Tulare",2024,"Social Services",67.9
+"Riverside",2024,"Social Services",64.5
+"San Bernardino",2024,"Social Services",70
+"Los Angeles",2024,"Social Services",87.2
+"Orange",2024,"Social Services",83.1
+"Imperial",2024,"Social Services",76.7
+"San Diego",2024,"Social Services",89.2
